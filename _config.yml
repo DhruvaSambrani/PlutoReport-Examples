@@ -1,5 +1,6 @@
 title: "PlutoReport Examples"
 description: "Examples of talks and reports made in PlutoReport"
 
+theme: minima
 minima:
   skin: auto
